@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Shashanka Prajapati
+
+- 🔭 I’m currently working on AI development using Python
+- 🌱 I’m currently learning FrontEnd Development using React, Next and Tailwind
+- 🤔 I’m looking for help with FrontEnd
+- 💬 Ask me about Python
 
 <!--
 **sp-95/sp-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
